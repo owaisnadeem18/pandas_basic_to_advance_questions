@@ -1,0 +1,5 @@
+1. Create a Pandas Series of 6 countries and their populations.
+2. Create a DataFrame for 5 employees with Name, Department, Salary, and Experience.
+3. Add a column Bonus = 15% of salary.
+4. Filter employees with more than 3 years of experience.
+5. Sort employees based on Salary in descending order.
